@@ -49,5 +49,10 @@ Step 5：迭代至满足终止条件，达到最大迭代次数，得到使得�
 
 ```
 
+## 4 参考资料
+[1] <https://blog.oliverxu.cn/2019/02/03/%E7%B2%92%E5%AD%90%E7%BE%A4%E7%AE%97%E6%B3%95-PSO-%E7%9A%84%E6%95%B0%E5%AD%A6%E5%8E%9F%E7%90%86/>
+
+[2] <https://www.cnblogs.com/kexinxin/p/9858664.html>
+
 
 
