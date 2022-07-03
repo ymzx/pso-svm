@@ -1,6 +1,5 @@
 
-# 二维码
-关注微信公众号，带你遨游AI项目敏捷开发
+# 关注微信公众号，带你遨游AI项目敏捷开发
 
 ![image](https://user-images.githubusercontent.com/29808550/177023508-9d705dd6-0932-4de1-8730-4016c554f12f.png)
 
